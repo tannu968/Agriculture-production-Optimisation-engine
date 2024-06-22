@@ -1,5 +1,6 @@
 Agricultural Production Optimization using Machine Learning
 Project Overview
+
 This project aims to optimize agricultural production by leveraging machine learning  techniques. By analyzing various data sources such as soil, weather, and crop data, the system provides actionable insights to improve crop yield, manage resources efficiently, and predict potential issues such as pest infestations or diseases.
 
 1) Table of Contents
